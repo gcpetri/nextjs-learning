@@ -358,6 +358,21 @@ Exercise 9
 # replace "data" with that response
 ```
 
+# Further Learning
+
+Design
+- most ReactJS applications do not use plain html
+- MUI: https://mui.com/
+- Chakra: https://chakra-ui.com/
+- Geist: https://geist-ui.dev/en-us
+
+State Managers
+- Redux: https://redux.js.org/
+- Persistant Redux: https://github.com/rt2zz/redux-persist#readme
+
+Testing
+- Unit Testing: https://testing-library.com/docs/react-testing-library/intro/
+
 ## Answers
 
 Exercise 1
